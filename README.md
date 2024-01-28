@@ -1,4 +1,4 @@
-# TOSS: TinyOpenSourceOS
+# Bruh OS (better name needed. obviously.)
 
 Hobby OS project. Probably very bad. I have no idea what I'm doing.
 
